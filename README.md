@@ -26,6 +26,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LeonardoQuezada/count.svg?" alt="profile counter" />
+</div>
+
+###
+
 <h2 align="center">🛠 Language and Tools</h2>
 
 ###
