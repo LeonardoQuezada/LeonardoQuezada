@@ -98,7 +98,7 @@
 
 ###
 
-<p align="center">¿Buscas algo más picante y exclusivo? 🌶️ No te pierdas el contenido especial que hay en mis redes;Asi que se bueno y pagame un cafe con tu suscripción.</p>
+<p align="center">¿Buscas algo más exclusivo y emocionante? 🌶️ No te pierdas el contenido especial que tengo para ti en mis redes. Sé un buen amante de lo atrevido y cómprame con tu suscripción un café.</p>
 
 ###
 
