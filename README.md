@@ -98,6 +98,16 @@
 
 ###
 
+<p align="center">¿Buscas algo más picante y exclusivo? 🌶️ No te pierdas el contenido especial en <a href="https://onlyfans.com/jordiporn" target="_blank">OnlyFans</a>. ¡Siempre hay algo emocionante esperándote!</p>
+
+###
+
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/1820828136474390528/uuAm_HBm_400x400.jpg" alt="perfil" width="200" />
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
