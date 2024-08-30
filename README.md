@@ -1,4 +1,4 @@
-<h1 align="center">Adaptarse O Morrir🦾  Perros</h1>
+<h1 align="center">Adaptarse O Morrir🦾</h1>
 
 <div align="center">
   <img height="300" src="https://media1.tenor.com/m/Yku__4F2iF8AAAAd/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" alt="animated gif" />
