@@ -131,7 +131,7 @@
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://onlyfans.com/jordiporn" target="_blank">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRv-sQuyXnAB83VbKFyOMHiZHtWQn9taUqdA&s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=OnlyFans&logo=fanclub&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="onlyfans logo" />
   </a>
 </div>
