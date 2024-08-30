@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="center">✨  Adaptando código desde el Período Heian<br>📚 Actualmente aprendiendo a optimizar y adaptar soluciones<br>🎯 Dominar arquitecturas adaptables y sistemas escalables<br>🎲 Fun fact: ¡Me encanta resolver problemas con algoritmos adaptativos!</p>
 
 ###
 
