@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">✨ Adaptando código desde el Período Heian<br>📚 Actualmente aprendiendo a optimizar y adaptar soluciones<br>🎯 Dominar arquitecturas adaptables y sistemas escalables<br>🎲 Dato curioso: ¡Me encanta resolver problemas con algoritmos adaptativos!</p>
+<p align="center">✨ Adaptando código desde el Período Heian<br>📚 Actualmente aprendiendo a optimizar y adaptar soluciones<br>🎯 Objetivos: Dominar arquitecturas adaptables y sistemas escalables<br>🎲 Dato curioso: ¡Me encanta resolver problemas con algoritmos adaptativos!</p>
 
 ###
 
