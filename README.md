@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="https://onlyfans.com/your-profile" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/807/941/png-transparent-onlyfans-new-logo-thumbnail.png" height="35" alt="onlyfans logo" />
+    <img src="https://w7.pngwing.com/pngs/807/941/png-transparent-onlyfans-new-logo-thumbnail.png" height="30" alt="onlyfans logo" />
   </a>
 </div>
 
