@@ -1,6 +1,9 @@
 <h1 align="center">Adaptarse O Morrir🦾</h1>
 
 <div align="center">
+  <h1 align="center">Adaptarse O Morrir🦾</h1>
+
+<div align="center">
   <img height="300" src="https://media1.tenor.com/m/Yku__4F2iF8AAAAd/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" alt="animated gif" />
 </div>
 
@@ -130,9 +133,8 @@
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRv-sQuyXnAB83VbKFyOMHiZHtWQn9taUqdA&s" targe="_blank">
+  <a href="https://onlyfans.com/jordiporn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=OnlyFans&logo=fanclub&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="onlyfans logo" />
   </a>
 </div>
-
 
