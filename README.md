@@ -1,10 +1,8 @@
+<h1 align="center">Hey there 👋 What's up?</h1>
+
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/Yku__4F2iF8AAAAd/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" alt="animated gif" />
 </div>
-
-###
-
-<h1 align="center">Hey there 👋 What's up?</h1>
 
 ###
 
@@ -91,5 +89,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
+
 
 
