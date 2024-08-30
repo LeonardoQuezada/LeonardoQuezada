@@ -98,7 +98,7 @@
 
 ###
 
-<p align="center">¿Buscas algo más picante y exclusivo? 🌶️ No te pierdas el contenido especial en <a href="https://onlyfans.com/jordiporn" target="_blank">OnlyFans</a>. ¡Siempre hay algo emocionante esperándote!</p>
+<p align="center">¿Buscas algo más picante y exclusivo? 🌶️ No te pierdas el contenido especial que hay en mis redes;Asi que se bueno y pagame un cafe con tu suscripción.</p>
 
 ###
 
