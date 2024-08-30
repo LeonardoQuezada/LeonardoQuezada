@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1 align="center">Adaptarse O Morrir🦾</h1>
 
