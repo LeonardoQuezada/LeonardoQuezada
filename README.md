@@ -78,6 +78,22 @@
 
 ###
 
+<h2 align="center">📊 Estadísticas y Lenguajes</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoQuezada&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top languages" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/LeonardoQuezada?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="readme statistics" />
+</div>
+
+###
+
 <h2 align="center">📫 Conéctate Conmigo</h2>
 
 ###
