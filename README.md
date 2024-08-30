@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">My name is ... and I'm a ..., from ....</p>
+<p align="center">Tu solo dame trabajo y tiempo y lo realizo me adapto a las situaciones</p>
 
 ###
 
