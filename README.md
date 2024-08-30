@@ -6,15 +6,15 @@
 
 ###
 
-<p align="center">Tu solo dame trabajo y tiempo y lo realizo me adapto a las situaciones</p>
+<p align="center">Tú solo dame trabajo y tiempo y lo realizo; me adapto a las situaciones.</p>
 
 ###
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Sobre Mí</h2>
 
 ###
 
-<p align="center">✨  Adaptando código desde el Período Heian<br>📚 Actualmente aprendiendo a optimizar y adaptar soluciones<br>🎯 Dominar arquitecturas adaptables y sistemas escalables<br>🎲 Fun fact: ¡Me encanta resolver problemas con algoritmos adaptativos!</p>
+<p align="center">✨ Adaptando código desde el Período Heian<br>📚 Actualmente aprendiendo a optimizar y adaptar soluciones<br>🎯 Dominar arquitecturas adaptables y sistemas escalables<br>🎲 Dato curioso: ¡Me encanta resolver problemas con algoritmos adaptativos!</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">🛠 Language and Tools</h2>
+<h2 align="center">🛠 Lenguajes y Herramientas</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="center">🔥 My Stats</h2>
+<h2 align="center">🔥 Mis Estadísticas</h2>
 
 ###
 
@@ -68,7 +68,17 @@
 
 ###
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">🏆 Trofeos de GitHub</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoQuezada&theme=juicyfresh&no-bg=true" alt="trophies" />
+</div>
+
+###
+
+<h2 align="center">📫 Conéctate Conmigo</h2>
 
 ###
 
@@ -82,9 +92,8 @@
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMd8PqYuakqhUIINExZqfdbLSinlEic7LcBA&s" target="_blank">
+  <a href="https://onlyfans.com/jordiporn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=OnlyFans&logo=fanclub&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="onlyfans logo" />
   </a>
 </div>
-
 
