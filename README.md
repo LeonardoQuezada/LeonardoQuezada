@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 What's up?</h1>
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/Yku__4F2iF8AAAAd/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" alt="animated gif" />
+  <img height="300" src="https://media1.tenor.com/m/Yku__4F2iF8AAAAd/jujutsu-kaisen-shibuya-arc-mahoraga-shibuya-arc.gif" alt="animated gif" />
 </div>
 
 ###
@@ -15,12 +15,6 @@
 ###
 
 <p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeonardoQuezada.LeonardoQuezada&" alt="visitor badge" />
-</div>
 
 ###
 
@@ -82,6 +76,14 @@
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://www.youtube.com/channel/your-channel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+</div>
+
   <a href="https://www.youtube.com/channel/your-channel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
