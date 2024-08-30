@@ -94,6 +94,18 @@
 
 ###
 
+<h2 align="center">🎵 Escucha Mi Música</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/track/6w40LhA3aI9v5Zc2zUO6i3" target="_blank">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</div>
+
+###
+
 <h2 align="center">📫 Conéctate Conmigo</h2>
 
 ###
@@ -118,8 +130,9 @@
   <a href="https://twitter.com/your-profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRv-sQuyXnAB83VbKFyOMHiZHtWQn9taUqdA&s" target="_blank">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRv-sQuyXnAB83VbKFyOMHiZHtWQn9taUqdA&s" targe="_blank">
     <img src="https://img.shields.io/static/v1?message=OnlyFans&logo=fanclub&label=&color=FF8C00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="onlyfans logo" />
   </a>
 </div>
+
 
